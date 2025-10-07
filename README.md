@@ -61,7 +61,7 @@ Restart your computer to complete the WSL installation.
 
 ### 5. Configure Ubuntu
 
-After rebooting, Windows will automatically launch Ubuntu and prompt you to set up your credentials:
+After rebooting, Windows will automatically launch Ubuntu and prompt you to set up your credentials (if it doesn't, type in "Ubuntu" in the search bar):
 
 - Create a username
 - Set a password
