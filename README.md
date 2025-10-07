@@ -63,6 +63,8 @@ Restart your computer to complete the WSL installation.
 
 After rebooting, Windows will automatically launch Ubuntu and prompt you to set up your credentials (if it doesn't, type in "Ubuntu" in the search bar):
 
+![Ubuntu Search](images/open_distro.png)
+
 - Create a username
 - Set a password
 
